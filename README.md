@@ -50,3 +50,4 @@ docker-compose up --build
 This repository is set up with GitHub Actions to automatically run tests and build Docker images on commits and pull requests. The CI/CD configuration can be found in the `.github/workflows` directory.
 Testing pipeline
 Testing complete pipeline with Docker Hub
+Testing complete pipeline with Docker Hub
